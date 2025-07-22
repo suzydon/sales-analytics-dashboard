@@ -1,7 +1,7 @@
 # sales-analytics-dashboard
 🏪 Sales Analytics Dashboard - Business Intelligence
 
-🚀 View Live Interactive Dashboard ← Click here to see the results!
+🚀 View Live Interactive Dashboard (https://suzydon.github.io/sales-analytics-dashboard/comprehensive_sales_dashboard.html) ← Click here to see the results!
 
 📊 Dashboard Preview
 Show Image
